@@ -1,0 +1,10 @@
+*
+!*/
+!*.[ch]
+!Makefile
+!.gitignore
+!src
+!libft
+!.vscode
+build
+out
